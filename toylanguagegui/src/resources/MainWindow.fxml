@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.effect.Glow?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="665.0" prefWidth="899.0" style="-fx-background-color: turquoise;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.MainWindowController">
+   <children>
+      <ListView fx:id="exeStackView" layoutX="454.0" layoutY="76.0" prefHeight="274.0" prefWidth="394.0" style="-fx-background-color: pink;">
+         <effect>
+            <Glow level="0.55" />
+         </effect>
+      </ListView>
+      <TableView fx:id="symbolTableView" layoutX="40.0" layoutY="105.0" prefHeight="199.0" prefWidth="335.0" style="-fx-background-color: pink;">
+        <columns>
+          <TableColumn fx:id="symTableNames" prefWidth="155.20001983642578" text="Names" />
+          <TableColumn fx:id="symTableValues" prefWidth="179.199951171875" text="Values" />
+        </columns>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </TableView>
+      <Label fx:id="progStatesCount" layoutX="40.0" layoutY="24.0" prefHeight="34.0" prefWidth="168.0" textAlignment="CENTER">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Button fx:id="execButton" layoutX="605.0" layoutY="594.0" mnemonicParsing="false" onAction="#oneStepHandler" prefHeight="34.0" prefWidth="92.0" text="Button" textFill="#61164b" />
+      <ListView fx:id="fileTableView" layoutX="460.0" layoutY="430.0" prefHeight="146.0" prefWidth="178.0" style="-fx-background-color: pink;" />
+      <ListView fx:id="outputView" layoutX="659.0" layoutY="430.0" prefHeight="146.0" prefWidth="178.0" style="-fx-background-color: pink;" />
+      <TableView fx:id="heapTableView" layoutX="43.0" layoutY="363.0" prefHeight="146.0" prefWidth="335.0" style="-fx-background-color: pink;">
+        <columns>
+          <TableColumn fx:id="heapTableAddr" prefWidth="158.40003204345703" text="Adresses" />
+          <TableColumn fx:id="heapTableValues" prefWidth="179.199951171875" text="Values" />
+        </columns>
+      </TableView>
+      <ListView fx:id="progIdentifiersView" layoutX="43.0" layoutY="553.0" prefHeight="74.0" prefWidth="335.0" style="-fx-background-color: pink;" />
+      <Label layoutX="573.0" layoutY="28.0" prefHeight="34.0" prefWidth="130.0" text="           Exe Stack" textAlignment="CENTER" textFill="#61164b">
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="489.0" layoutY="381.0" prefHeight="34.0" prefWidth="130.0" text="     File Table View" textFill="#61164b">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="683.0" layoutY="381.0" prefHeight="34.0" prefWidth="130.0" text="      Output List" textFill="#61164b">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="40.0" layoutY="62.0" prefHeight="34.0" prefWidth="168.0" text="           Sym Table" textFill="#61164b">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="87.0" layoutY="315.0" prefHeight="34.0" prefWidth="92.0" text="  Heap Table" textFill="#61164b">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="87.0" layoutY="518.0" prefHeight="24.0" prefWidth="168.0" text="  Program Identifiers" textFill="#61164b">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

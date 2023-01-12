@@ -1,0 +1,132 @@
+Program with id: 1
+Exe Stack : [(Ref int v;(new(v,20 );(Ref Ref int a;(new(a,v);(print(rH(v));print(rH(rH(a))+5 ))))))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(new(v,20 );(Ref Ref int a;(new(a,v);(print(rH(v));print(rH(rH(a))+5 ))))), Ref int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(new(v,20 );(Ref Ref int a;(new(a,v);(print(rH(v));print(rH(rH(a))+5 ))))), Ref int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(new(v,20 );(Ref Ref int a;(new(a,v);(print(rH(v));print(rH(rH(a))+5 )))))]
+Sym Table : {v=(0,int)}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(new(v,20 );(Ref Ref int a;(new(a,v);(print(rH(v));print(rH(rH(a))+5 )))))]
+Sym Table : {v=(0,int)}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(Ref Ref int a;(new(a,v);(print(rH(v));print(rH(rH(a))+5 )))), new(v,20 )]
+Sym Table : {v=(0,int)}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(Ref Ref int a;(new(a,v);(print(rH(v));print(rH(rH(a))+5 )))), new(v,20 )]
+Sym Table : {v=(0,int)}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(Ref Ref int a;(new(a,v);(print(rH(v));print(rH(rH(a))+5 ))))]
+Sym Table : {v=(1,int)}
+Output : []
+File Table: {}
+Heap: {1=20 }
+Program with id: 1
+Exe Stack : [(Ref Ref int a;(new(a,v);(print(rH(v));print(rH(rH(a))+5 ))))]
+Sym Table : {v=(1,int)}
+Output : []
+File Table: {}
+Heap: {1=20 }
+Program with id: 1
+Exe Stack : [(new(a,v);(print(rH(v));print(rH(rH(a))+5 ))), Ref Ref int a]
+Sym Table : {v=(1,int)}
+Output : []
+File Table: {}
+Heap: {1=20 }
+Program with id: 1
+Exe Stack : [(new(a,v);(print(rH(v));print(rH(rH(a))+5 ))), Ref Ref int a]
+Sym Table : {v=(1,int)}
+Output : []
+File Table: {}
+Heap: {1=20 }
+Program with id: 1
+Exe Stack : [(new(a,v);(print(rH(v));print(rH(rH(a))+5 )))]
+Sym Table : {a=(0,Ref int), v=(1,int)}
+Output : []
+File Table: {}
+Heap: {1=20 }
+Program with id: 1
+Exe Stack : [(new(a,v);(print(rH(v));print(rH(rH(a))+5 )))]
+Sym Table : {a=(0,Ref int), v=(1,int)}
+Output : []
+File Table: {}
+Heap: {1=20 }
+Program with id: 1
+Exe Stack : [(print(rH(v));print(rH(rH(a))+5 )), new(a,v)]
+Sym Table : {a=(0,Ref int), v=(1,int)}
+Output : []
+File Table: {}
+Heap: {1=20 }
+Program with id: 1
+Exe Stack : [(print(rH(v));print(rH(rH(a))+5 )), new(a,v)]
+Sym Table : {a=(0,Ref int), v=(1,int)}
+Output : []
+File Table: {}
+Heap: {1=20 }
+Program with id: 1
+Exe Stack : [(print(rH(v));print(rH(rH(a))+5 ))]
+Sym Table : {a=(2,Ref int), v=(1,int)}
+Output : []
+File Table: {}
+Heap: {1=20 , 2=(1,int)}
+Program with id: 1
+Exe Stack : [(print(rH(v));print(rH(rH(a))+5 ))]
+Sym Table : {a=(2,Ref int), v=(1,int)}
+Output : []
+File Table: {}
+Heap: {1=20 , 2=(1,int)}
+Program with id: 1
+Exe Stack : [print(rH(rH(a))+5 ), print(rH(v))]
+Sym Table : {a=(2,Ref int), v=(1,int)}
+Output : []
+File Table: {}
+Heap: {1=20 , 2=(1,int)}
+Program with id: 1
+Exe Stack : [print(rH(rH(a))+5 ), print(rH(v))]
+Sym Table : {a=(2,Ref int), v=(1,int)}
+Output : []
+File Table: {}
+Heap: {1=20 , 2=(1,int)}
+Program with id: 1
+Exe Stack : [print(rH(rH(a))+5 )]
+Sym Table : {a=(2,Ref int), v=(1,int)}
+Output : [20 ]
+File Table: {}
+Heap: {1=20 , 2=(1,int)}
+Program with id: 1
+Exe Stack : [print(rH(rH(a))+5 )]
+Sym Table : {a=(2,Ref int), v=(1,int)}
+Output : [20 ]
+File Table: {}
+Heap: {1=20 , 2=(1,int)}
+Program with id: 1
+Exe Stack : []
+Sym Table : {a=(2,Ref int), v=(1,int)}
+Output : [20 , 25 ]
+File Table: {}
+Heap: {1=20 , 2=(1,int)}

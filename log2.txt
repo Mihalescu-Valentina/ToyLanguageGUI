@@ -1,0 +1,240 @@
+Program with id: 1
+Exe Stack : [(bool a;(int v;(a=true ;((IF(a) THEN(v=2 )ELSE(v=3 ));print(v)))))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(a=true ;((IF(a) THEN(v=2 )ELSE(v=3 ));print(v)))), bool a]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(a=true ;((IF(a) THEN(v=2 )ELSE(v=3 ));print(v)))), bool a]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(a=true ;((IF(a) THEN(v=2 )ELSE(v=3 ));print(v))))]
+Sym Table : {a=false }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(a=true ;((IF(a) THEN(v=2 )ELSE(v=3 ));print(v))))]
+Sym Table : {a=false }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(a=true ;((IF(a) THEN(v=2 )ELSE(v=3 ));print(v))), int v]
+Sym Table : {a=false }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(a=true ;((IF(a) THEN(v=2 )ELSE(v=3 ));print(v))), int v]
+Sym Table : {a=false }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(a=true ;((IF(a) THEN(v=2 )ELSE(v=3 ));print(v)))]
+Sym Table : {a=false , v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(a=true ;((IF(a) THEN(v=2 )ELSE(v=3 ));print(v)))]
+Sym Table : {a=false , v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [((IF(a) THEN(v=2 )ELSE(v=3 ));print(v)), a=true ]
+Sym Table : {a=false , v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [((IF(a) THEN(v=2 )ELSE(v=3 ));print(v)), a=true ]
+Sym Table : {a=false , v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [((IF(a) THEN(v=2 )ELSE(v=3 ));print(v))]
+Sym Table : {a=true , v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [((IF(a) THEN(v=2 )ELSE(v=3 ));print(v))]
+Sym Table : {a=true , v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), (IF(a) THEN(v=2 )ELSE(v=3 ))]
+Sym Table : {a=true , v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), (IF(a) THEN(v=2 )ELSE(v=3 ))]
+Sym Table : {a=true , v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {a=true , v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {a=true , v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {a=true , v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {a=true , v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : []
+Sym Table : {a=true , v=2 }
+Output : [2 ]
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(bool a;(int v;(a=true ;((IF(a) THEN(v=2 )ELSE(v=3 ));print(v)))))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(a=true ;((IF(a) THEN(v=2 )ELSE(v=3 ));print(v)))), bool a]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(a=true ;((IF(a) THEN(v=2 )ELSE(v=3 ));print(v)))), bool a]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(a=true ;((IF(a) THEN(v=2 )ELSE(v=3 ));print(v))))]
+Sym Table : {a=false }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(a=true ;((IF(a) THEN(v=2 )ELSE(v=3 ));print(v))))]
+Sym Table : {a=false }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(a=true ;((IF(a) THEN(v=2 )ELSE(v=3 ));print(v))), int v]
+Sym Table : {a=false }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(a=true ;((IF(a) THEN(v=2 )ELSE(v=3 ));print(v))), int v]
+Sym Table : {a=false }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(a=true ;((IF(a) THEN(v=2 )ELSE(v=3 ));print(v)))]
+Sym Table : {a=false , v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(a=true ;((IF(a) THEN(v=2 )ELSE(v=3 ));print(v)))]
+Sym Table : {a=false , v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [((IF(a) THEN(v=2 )ELSE(v=3 ));print(v)), a=true ]
+Sym Table : {a=false , v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [((IF(a) THEN(v=2 )ELSE(v=3 ));print(v)), a=true ]
+Sym Table : {a=false , v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [((IF(a) THEN(v=2 )ELSE(v=3 ));print(v))]
+Sym Table : {a=true , v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [((IF(a) THEN(v=2 )ELSE(v=3 ));print(v))]
+Sym Table : {a=true , v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), (IF(a) THEN(v=2 )ELSE(v=3 ))]
+Sym Table : {a=true , v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), (IF(a) THEN(v=2 )ELSE(v=3 ))]
+Sym Table : {a=true , v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {a=true , v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {a=true , v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {a=true , v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {a=true , v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : []
+Sym Table : {a=true , v=2 }
+Output : [2 ]
+File Table: {}
+Heap: {}

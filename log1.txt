@@ -1,0 +1,1140 @@
+Program with id: 1
+Exe Stack : [(int v;(v=2 ;print(v)))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : []
+Sym Table : {v=2 }
+Output : [2 ]
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(v=2 ;print(v)))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : []
+Sym Table : {v=2 }
+Output : [2 ]
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(v=2 ;print(v)))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : []
+Sym Table : {v=2 }
+Output : [2 ]
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(v=2 ;print(v)))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : []
+Sym Table : {v=2 }
+Output : [2 ]
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(v=2 ;print(v)))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : []
+Sym Table : {v=2 }
+Output : [2 ]
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(v=2 ;print(v)))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : []
+Sym Table : {v=2 }
+Output : [2 ]
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(v=2 ;print(v)))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : []
+Sym Table : {v=2 }
+Output : [2 ]
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(v=2 ;print(v)))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : []
+Sym Table : {v=2 }
+Output : [2 ]
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(v=2 ;print(v)))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : []
+Sym Table : {v=2 }
+Output : [2 ]
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(v=2 ;print(v)))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : []
+Sym Table : {v=2 }
+Output : [2 ]
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(v=2 ;print(v)))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : []
+Sym Table : {v=2 }
+Output : [2 ]
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(v=2 ;print(v)))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : []
+Sym Table : {v=2 }
+Output : [2 ]
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(v=2 ;print(v)))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : []
+Sym Table : {v=2 }
+Output : [2 ]
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(v=2 ;print(v)))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : []
+Sym Table : {v=2 }
+Output : [2 ]
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(v=2 ;print(v)))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : []
+Sym Table : {v=2 }
+Output : [2 ]
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(v=2 ;print(v)))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : []
+Sym Table : {v=2 }
+Output : [2 ]
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(v=2 ;print(v)))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : []
+Sym Table : {v=2 }
+Output : [2 ]
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(v=2 ;print(v)))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : []
+Sym Table : {v=2 }
+Output : [2 ]
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(int v;(v=2 ;print(v)))]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v)), int v]
+Sym Table : {}
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [(v=2 ;print(v))]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v), v=2 ]
+Sym Table : {v=0 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : [print(v)]
+Sym Table : {v=2 }
+Output : []
+File Table: {}
+Heap: {}
+Program with id: 1
+Exe Stack : []
+Sym Table : {v=2 }
+Output : [2 ]
+File Table: {}
+Heap: {}
