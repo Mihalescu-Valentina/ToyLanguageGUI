@@ -36,6 +36,8 @@ public class Controller {
 
     void oneStepForAllPrg(List<PrgState> prgList) throws InterruptedException {
         prgList.forEach(prg -> repo.logPrgStateExec(prg));
+        
+        //RUN concurrently one step for each of the existing PrgStates
         List<Callable<PrgState>> callList = prgList.stream().map((PrgState p) -> (Callable<PrgState>) (() -> {
             return p.oneStep();
         })).collect(Collectors.toList());
